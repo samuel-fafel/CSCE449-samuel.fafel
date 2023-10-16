@@ -1,0 +1,7 @@
+16:29:17 INFO  : Registering command handlers for SDK TCF services
+16:29:19 INFO  : Launching XSCT server: xsct.bat -interactive W:\Utilities\Xilinx\Vivado\ECEN449\Lab2\project_2\project_2\project_2.sdk\temp_xsdb_launch_script.tcl
+16:29:22 INFO  : XSCT server has started successfully.
+16:29:25 INFO  : Successfully done setting XSCT server connection channel  
+16:29:25 INFO  : Successfully done setting SDK workspace  
+16:29:25 INFO  : Processing command line option -hwspec W:/Utilities/Xilinx/Vivado/ECEN449/Lab2/project_2/project_2/project_2.sdk/led_sw_wrapper.hdf.
+16:47:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.

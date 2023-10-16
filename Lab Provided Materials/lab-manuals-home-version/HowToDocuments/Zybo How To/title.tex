@@ -1,0 +1,96 @@
+\documentclass[11pt,twoside,titlepage]{article}
+\usepackage[tc]{titlepic}
+\usepackage{times}
+\usepackage{float}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{needspace}
+\usepackage{url}
+\usepackage{hyperref}
+%\usepackage{mathptm}
+\usepackage{fancyhdr}
+\usepackage{wrapfig}
+\ifx\pdfoutput\undefined
+% we are running LaTeX, not pdflatex
+\usepackage{epsfig,color}
+\else
+% we are running pdflatex, so convert .eps files to .pdf
+\usepackage[pdftex]{epsfig,color}
+\usepackage{epstopdf}
+\usepackage{pdfsync}
+\fi
+\usepackage{ifthen,version}
+\usepackage{listings}
+\usepackage{setspace}
+
+
+
+
+
+%\usepackage{temporal}
+%\usepackage{algorithmic}
+\newboolean{print-solutions}
+
+% Start of configuration section
+% Comment out the following line to exclude the printing of solutions.
+%\setboolean{print-solutions}{true}
+\newcommand{\labnumber}{1}
+\newcommand{\labname}{Digital Logic Gates}
+\newcommand{\coursenumber}{Zybo Z7-10 and Vivado How-To Document}
+\newcommand{\coursename}{Introduction to Digital Design}
+% End of configuration section
+
+% Conditional definitions
+\newcommand{\dateorsol}{\LARGE \ifthenelse{\boolean{print-solutions}}%
+  {Solutions}{Due \duedate}}
+\newcommand{\headertxt}{\sl \ifthenelse{\boolean{print-solutions}}%
+  {Solutions to}{} Laboratory Exercise \#\labnumber}
+\newcommand{\points}[1]{\ifthenelse{\boolean{print-solutions}}%
+  {}{[#1 points.]}}
+\ifthenelse{\boolean{print-solutions}}{\includeversion{prnt-solns}}%
+{\excludeversion{prnt-solns}}
+
+\textwidth=7.25in
+\evensidemargin=-0.35in
+\oddsidemargin=-0.35in
+
+\newcommand{\ite}{\operatorname{ite}}
+\newcommand{\itec}{\operatorname{ite\_constant}}
+
+{\theoremstyle{definition} \newtheorem{definition}{Definition}}
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+{\theoremstyle{remark}
+  \newtheorem{example}{Example}
+  \newtheorem{problem}{Problem}
+  \newtheorem{note}{Note}}
+% Fortunately, proofs can be nested.
+\newenvironment{solution}{\begin{proof}[Solution]}{\end{proof}}
+
+\newcommand{\ta}{\Large Section 6\\ \Large Logic Analyzer}
+\title{ \Large  Department of Electrical and Computer Engineering\\ \Large Texas A\&M University \\}
+\author{ \Large Analog Discovery 2 and WaveForms:\\ \Large How-To Document \\ \\ \\ \ta \vspace{-120pt}}
+
+\titlepic{\includegraphics[width=0.5\textwidth]{logo}}
+
+\date{}
+\pagestyle{fancy}
+\lhead[\rm\thepage]{\headertxt}
+\rhead[\headertxt]{\rm\thepage}
+\lfoot[]{\coursenumber}
+%\cfoot{\instructor}
+\rfoot[\coursenumber]{}
+
+\begin{document}
+\bibliographystyle{alpha}
+\maketitle
+
+
+
+
+\section{a}
+\end{document}
+

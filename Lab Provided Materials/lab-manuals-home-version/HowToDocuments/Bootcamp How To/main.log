@@ -1,0 +1,769 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.16)  12 AUG 2020 08:45
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2018-12-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size11.clo"
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\kyler\AppData\Roaming\MiKTeX\2.9\tex/latex/titlepic\titlepic.sty
+Package: titlepic 2017/03/14 1.2 Package to display a picture on the title page
+
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks14
+\float@box=\box27
+\@float@everytoks=\toks15
+\@floatcapt=\box28
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks18
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks19
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks27
+)
+(C:\Users\kyler\AppData\Roaming\MiKTeX\2.9\tex/latex/needspace\needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+(C:\Users\kyler\AppData\Roaming\MiKTeX\2.9\tex/latex/url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen112
+\Hy@linkcounter=\count101
+\Hy@pagecounter=\count102
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count103
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4550.
+Package hyperref Info: Link nesting OFF on input line 4555.
+Package hyperref Info: Hyper index ON on input line 4558.
+Package hyperref Info: Plain pages OFF on input line 4565.
+Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4803.
+\c@Hy@tempcnt=\count104
+LaTeX Info: Redefining \url on input line 5156.
+\XeTeXLinkMargin=\dimen113
+\Fld@menulength=\count105
+\Field@Width=\dimen114
+\Fld@charsize=\dimen115
+Package hyperref Info: Hyper figures OFF on input line 6411.
+Package hyperref Info: Link nesting OFF on input line 6416.
+Package hyperref Info: Hyper index ON on input line 6419.
+Package hyperref Info: backreferencing OFF on input line 6426.
+Package hyperref Info: Link coloring OFF on input line 6431.
+Package hyperref Info: Link coloring with OCG OFF on input line 6436.
+Package hyperref Info: PDF/A mode OFF on input line 6441.
+LaTeX Info: Redefining \ref on input line 6481.
+LaTeX Info: Redefining \pageref on input line 6485.
+\Hy@abspage=\count106
+\c@Item=\count107
+\c@Hfootnote=\count108
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
+\Fld@listcount=\count109
+\c@bookmark@seq@number=\count110
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip49
+)
+(C:\Users\kyler\AppData\Roaming\MiKTeX\2.9\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+)
+(C:\Users\kyler\AppData\Roaming\MiKTeX\2.9\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen116
+\WF@size=\dimen117
+\c@WF@wrappedlines=\count111
+\WF@box=\box31
+\WF@everypar=\toks29
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\epsfig.sty"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen118
+\Gin@req@width=\dimen119
+)
+\epsfxsize=\dimen120
+\epsfysize=\dimen121
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf.sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+(C:\Users\kyler\AppData\Roaming\MiKTeX\2.9\tex/latex/pdfsync\pdfsync.sty
+Package: pdfsync 2008/01/26 v1.1
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\kyler\AppData\Roaming\MiKTeX\2.9\tex/latex/version\version.sty
+Package: version 2009/09/15  v 2.0
+Package version Info: Excluding comment environments declared on input line 115
+.
+)
+(C:\Users\kyler\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listings.sty
+\lst@mode=\count112
+\lst@gtempboxa=\box32
+\lst@token=\toks30
+\lst@length=\count113
+\lst@currlwidth=\dimen122
+\lst@column=\count114
+\lst@pos=\count115
+\lst@lostspace=\dimen123
+\lst@width=\dimen124
+\lst@newlines=\count116
+\lst@lineno=\count117
+\lst@maxwidth=\dimen125
+
+(C:\Users\kyler\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count118
+\lst@skipnumbers=\count119
+\lst@framebox=\box33
+)
+(C:\Users\kyler\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+\c@definition=\count120
+\c@theorem=\count121
+\c@lemma=\count122
+\c@corollary=\count123
+\c@proposition=\count124
+\c@example=\count125
+\c@problem=\count126
+\c@note=\count127
+
+(main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 82.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring OFF on input line 82.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 82.
+LaTeX Info: Redefining \pageref on input line 82.
+LaTeX Info: Redefining \nameref on input line 82.
+
+(main.out) (main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+
+(C:\Users\kyler\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count129
+\scratchdimen=\dimen126
+\scratchbox=\box35
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen127
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks32
+)
+Configuring pdfsync
+\PDFSYNC@ut=\write4
+\openout4 = `main.pdfsync'.
+
+\PDFSYNCf@li@=\count135
+\PDFSYNC@rder=\count136
+**** pdfsync.sty: Synchronizing at \everypar
+\PDFSYNCeveryp@r=\toks33
+**** pdfsync.sty: Synchronizing at \everymath
+\PDFSYNCeverym@th=\toks34
+**** pdfsync.sty: Synchronizing at \everyhbox
+\PDFSYNCeveryhb@x=\toks35
+**** pdfsync.sty: Synchronizing at \everyvbox
+\PDFSYNCeveryvb@x=\toks36
+**** pdfsync.sty: started
+\c@lstlisting=\count137
+LaTeX Font Info:    Try loading font information for U+msa on input line 85.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 85.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<logo.pdf, id=31, 346.29375pt x 58.2175pt>
+File: logo.pdf Graphic file (type pdf)
+<use logo.pdf>
+Package pdftex.def Info: logo.pdf  used on input line 85.
+(pdftex.def)             Requested size: 261.97874pt x 44.0441pt.
+ [1
+
+{C:/Users/kyler/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.pdf>
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 93.
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 93.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 101.
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--110
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 121.
+! Undefined control sequence.
+\f@nch@erh ->\headertxt 
+                        \strut 
+l.129     \item M
+                 ac mini introduced in 2012 or later
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.59999pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[2]
+<oth.png, id=46, 443.6575pt x 124.465pt>
+File: oth.png Graphic file (type png)
+<use oth.png>
+Package pdftex.def Info: oth.png  used on input line 162.
+(pdftex.def)             Requested size: 419.16759pt x 117.59344pt.
+<oth2.png, id=48, 1273.75874pt x 635.37375pt>
+File: oth2.png Graphic file (type png)
+<use oth2.png>
+Package pdftex.def Info: oth2.png  used on input line 169.
+(pdftex.def)             Requested size: 523.95749pt x 261.35808pt.
+
+! Undefined control sequence.
+\f@nch@olh ->\headertxt 
+                        \strut 
+l.179     \item T
+                 he link will take you to a website called "onthehub" where ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[3]
+<bootcamp.png, id=55, 790.955pt x 554.07pt>
+File: bootcamp.png Graphic file (type png)
+<use bootcamp.png>
+Package pdftex.def Info: bootcamp.png  used on input line 196.
+(pdftex.def)             Requested size: 261.97874pt x 183.52002pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<new_size.png, id=56, 934.49126pt x 654.445pt>
+File: new_size.png Graphic file (type png)
+<use new_size.png>
+Package pdftex.def Info: new_size.png  used on input line 203.
+(pdftex.def)             Requested size: 419.16759pt x 293.54886pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<sup2.png, id=57, 580.1675pt x 399.4925pt>
+File: sup2.png Graphic file (type png)
+<use sup2.png>
+Package pdftex.def Info: sup2.png  used on input line 210.
+(pdftex.def)             Requested size: 419.16759pt x 288.63408pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<username.png, id=63, 842.14626pt x 441.65pt>
+File: username.png Graphic file (type png)
+<use username.png>
+Package pdftex.def Info: username.png  used on input line 234.
+(pdftex.def)             Requested size: 261.97874pt x 137.38855pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--238
+
+ []
+
+! Undefined control sequence.
+\f@nch@erh ->\headertxt 
+                        \strut 
+l.238 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[4 <./oth.png>]
+
+LaTeX Warning: Text page 5 contains only floats.
+
+! Undefined control sequence.
+\f@nch@olh ->\headertxt 
+                        \strut 
+l.238 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5 <./oth2.png> <./bootcamp.png>]
+! Undefined control sequence.
+\f@nch@erh ->\headertxt 
+                        \strut 
+l.238 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6 <./new_size.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--245
+
+ []
+
+
+Underfull \vbox (badness 1888) has occurred while \output is active []
+
+
+! Undefined control sequence.
+\f@nch@olh ->\headertxt 
+                        \strut 
+l.245 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[7 <./sup2.png>]
+<win10start.png, id=104, 652.4375pt x 460.72125pt>
+File: win10start.png Graphic file (type png)
+<use win10start.png>
+Package pdftex.def Info: win10start.png  used on input line 256.
+(pdftex.def)             Requested size: 261.97874pt x 185.00229pt.
+<login.png, id=105, 417.56pt x 261.97874pt>
+File: login.png Graphic file (type png)
+<use login.png>
+Package pdftex.def Info: login.png  used on input line 263.
+(pdftex.def)             Requested size: 261.97874pt x 164.3759pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<phone.png, id=106, 860.21375pt x 479.7925pt>
+File: phone.png Graphic file (type png)
+<use phone.png>
+Package pdftex.def Info: phone.png  used on input line 270.
+(pdftex.def)             Requested size: 261.97874pt x 146.12051pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pinsetup.png, id=107, 111.7776pt x 92.9874pt>
+File: pinsetup.png Graphic file (type png)
+<use pinsetup.png>
+Package pdftex.def Info: pinsetup.png  used on input line 277.
+(pdftex.def)             Requested size: 157.18884pt x 130.77739pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+! Undefined control sequence.
+\f@nch@erh ->\headertxt 
+                        \strut 
+l.284 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[8 <./username.png> <./win10start.png>]
+<winb1.png, id=118, 437.635pt x 355.3275pt>
+File: winb1.png Graphic file (type png)
+<use winb1.png>
+Package pdftex.def Info: winb1.png  used on input line 289.
+(pdftex.def)             Requested size: 157.18884pt x 127.62502pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<restart.png, id=119, 801.99625pt x 613.29124pt>
+File: restart.png Graphic file (type png)
+<use restart.png>
+Package pdftex.def Info: restart.png  used on input line 296.
+(pdftex.def)             Requested size: 157.18884pt x 120.20425pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+! Undefined control sequence.
+\f@nch@olh ->\headertxt 
+                        \strut 
+l.304 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[9 <./login.png> <./phone.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+! Undefined control sequence.
+\f@nch@erh ->\headertxt 
+                        \strut 
+l.304 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[10 <./pinsetup.png (PNG copy)> <./winb1.png> <./restart.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
+
+! Undefined control sequence.
+\f@nch@olh ->\headertxt 
+                        \strut 
+l.305 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 53E1AAF4CFAACFBD5E2C50A725A41853;501.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 305.
+ ) 
+Here is how much of TeX's memory you used:
+ 7979 strings out of 492895
+ 114219 string characters out of 3133479
+ 210598 words of memory out of 3000000
+ 11730 multiletter control sequences out of 15000+200000
+ 19489 words of font info for 48 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 32i,31n,43p,661b,521s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
+times/utmr8a.pfb>
+Output written on main.pdf (11 pages, 11378372 bytes).
+PDF statistics:
+ 162 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 122 words of extra memory for PDF output out of 10000 (max. 10000000)
+
